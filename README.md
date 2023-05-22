@@ -17,11 +17,13 @@ Requirements:
 
 3. Implement data validation to ensure that all required fields are present and have valid data.
 
-4. Use Laravel's Eloquent ORM to interact with the database.
+4. Also add Google verification V3 before submiting data in the front-end form (https://developers.google.com/recaptcha/docs/v3)
 
-5. Use Laravel's built-in authentication system to secure the API.
+5. Use Laravel's Eloquent ORM to interact with the database.
 
-6. Implement pagination to limit the number of products returned in a single request.
+6. Use Laravel's built-in authentication system to secure the API.
+
+7. Implement pagination to limit the number of products returned in a single request.
 
 Bonus points:
 
