@@ -25,6 +25,8 @@ Requirements:
 
 7. Implement pagination to limit the number of products returned in a single request.
 
+8. And add a UI for the API to visible the data.  
+
 Bonus points:
 
 * Implement search and filtering capabilities for the product list.
